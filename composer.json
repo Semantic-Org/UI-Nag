@@ -14,5 +14,9 @@
     "jquery": "x.x.x"
   },
   "main": "nag.js",
+<<<<<<< HEAD
   "version": "1.0.0-beta"
+=======
+  "version": "1.0.0"
+>>>>>>> c2dc7fc1e26f952e4a3bdb71f8aa9964744667d6
 }

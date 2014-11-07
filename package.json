@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-nag",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> c2dc7fc1e26f952e4a3bdb71f8aa9964744667d6
   "title": "Semantic UI - Nag",
   "description": "Single component release of nag",
   "homepage": "http://www.semantic-ui.com",
@@ -13,9 +17,16 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+<<<<<<< HEAD
   "devDependencies": {},
   "dependencies": {
     "jquery": "x.x.x"
   },
+=======
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "devDependencies": {},
+>>>>>>> c2dc7fc1e26f952e4a3bdb71f8aa9964744667d6
   "main": "index.js"
 }
