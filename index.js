@@ -1,5 +1,5 @@
 /*!
- * # Semantic UI 2.0.7 - Nag
+ * # Semantic UI 2.0.8 - Nag
  * http://github.com/semantic-org/semantic-ui/
  *
  *
@@ -417,7 +417,7 @@ module.exports = function(parameters) {
   ;
 };
 
-module.exports.settings = {
+_module.exports.settings = {
 
   name        : 'Nag',
 
